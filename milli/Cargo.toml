@@ -1,8 +1,5 @@
 [package]
 name = "milli"
-version = "0.37.0"
-authors = ["Kerollmops <clement@meilisearch.com>"]
-edition = "2018"
 
 [dependencies]
 bimap = { version = "0.6.2", features = ["serde"] }
